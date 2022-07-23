@@ -45,7 +45,7 @@
 </script>
 
 <form action="" on:submit|preventDefault>
-	<h1>jinx</h1>
+	<h1>gink</h1>
 	<span>Simple URL Shortener</span>
 	<input
 		type="text"
@@ -149,6 +149,8 @@
 		border-radius: 5px;
 		padding: 10px;
 		font-size: 1.2em;
+		width: 85vw;
+		max-width: 400px;
 		outline: none;
 	}
 </style>
