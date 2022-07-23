@@ -8,6 +8,9 @@ const config = {
 		alias: {
 			$src: resolve(__dirname, 'src'),
 		}
+	}, 
+	define: {
+		'process.env': {}
 	}
 };
 
