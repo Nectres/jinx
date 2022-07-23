@@ -45,7 +45,7 @@
 </script>
 
 <form action="" on:submit|preventDefault>
-	<h1>gink</h1>
+	<img src="/logo_white.png" alt="Logo" width="150px">
 	<span>Simple URL Shortener</span>
 	<input
 		type="text"
